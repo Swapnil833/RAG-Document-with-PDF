@@ -59,7 +59,7 @@ Context-Aware Answer
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Swapnil833/RAG-Document-with-PDF
 cd RAG-Document-with-PDF
 ```
 
